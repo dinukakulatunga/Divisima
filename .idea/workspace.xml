@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/books/upload/cn labs answers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/papers/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/papers/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/Admin/Lecturer/papers/upload/Lecture01-Code.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/ass/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/ass/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/materials.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/materials.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/papers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/papers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/qa.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/qa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/references.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/references.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/removedata.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/removedata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ITPM/userprofile.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ITPM/userprofile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/divisima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/divisima.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/addproduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addsupplier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/regform.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/regform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/seller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/seller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/updateproduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/updatesupplier.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,26 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Seller/addproduct.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="57" column="30" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="57" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,7 +60,24 @@
       <find>select * from</find>
       <find>$c</find>
       <find>email.ph</find>
+      <find>$l</find>
+      <find>c_name</find>
+      <find>search</find>
+      <find>unenr</find>
+      <find>$db_host=&quot;localhost&quot;;</find>
+      <find>index.ht</find>
+      <find>index</find>
+      <find>#</find>
+      <find>profile.php</find>
+      <find>a href</find>
+      <find>home</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\ITPM</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,36 +85,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/supplier.html" />
-        <option value="$PROJECT_DIR$/checkout.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/product.html" />
-        <option value="$PROJECT_DIR$/cart.html" />
-        <option value="$PROJECT_DIR$/../Session-Timeout/home.php" />
-        <option value="$PROJECT_DIR$/../ITPM/user_status.php" />
-        <option value="$PROJECT_DIR$/Login/Login.html" />
-        <option value="$PROJECT_DIR$/category.html" />
-        <option value="$PROJECT_DIR$/../ITPM/Admin/course.php" />
         <option value="$PROJECT_DIR$/seller.html" />
         <option value="$PROJECT_DIR$/../ITPM_dinuka/course.php" />
         <option value="$PROJECT_DIR$/../ITPM_dinuka/check_session.php" />
         <option value="$PROJECT_DIR$/../ITPM_dinuka/index.php" />
         <option value="$PROJECT_DIR$/../ITPM_dinuka/main.php" />
         <option value="$PROJECT_DIR$/../ITPM/logout2.php" />
-        <option value="$PROJECT_DIR$/../ITPM/materials.php" />
-        <option value="$PROJECT_DIR$/../ITPM/main.php" />
         <option value="$PROJECT_DIR$/Seller/addProduct.html" />
         <option value="$PROJECT_DIR$/RegistrationForm/regForm.html" />
         <option value="$PROJECT_DIR$/../Thanos/html2canvas.min.js" />
         <option value="$PROJECT_DIR$/../Thanos/index.html" />
         <option value="$PROJECT_DIR$/../ITPM/Admin/db/dbcon.php" />
-        <option value="$PROJECT_DIR$/../ITPM/ass/connection.php" />
         <option value="$PROJECT_DIR$/../ITPM/db/dbcon.php" />
         <option value="$PROJECT_DIR$/../ITPM/ass/config.php" />
-        <option value="$PROJECT_DIR$/../ITPM/course.php" />
-        <option value="$PROJECT_DIR$/../ITPM/removedata.php" />
         <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/db/dbcon.php" />
-        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php" />
         <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/config.php" />
         <option value="$PROJECT_DIR$/../Canvas/index.html" />
         <option value="$PROJECT_DIR$/../ITPM/lec/connection.php" />
@@ -104,19 +107,35 @@
         <option value="$PROJECT_DIR$/../ITPM/Admin/Notices/dbcon.php" />
         <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/books/connection.php" />
         <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/email.php" />
-        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/time.php" />
         <option value="$PROJECT_DIR$/Seller/regForm.html" />
-        <option value="$PROJECT_DIR$/Seller/Login.html" />
         <option value="$PROJECT_DIR$/regForm.html" />
-        <option value="$PROJECT_DIR$/Seller/regform.html" />
         <option value="$PROJECT_DIR$/regform.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Login.html" />
         <option value="$PROJECT_DIR$/reg.html" />
         <option value="$PROJECT_DIR$/Seller/updateProduct.html" />
-        <option value="$PROJECT_DIR$/Seller/seller.html" />
         <option value="$PROJECT_DIR$/Seller/updateproduct.html" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/time.php" />
+        <option value="$PROJECT_DIR$/../ITPM/course.php" />
+        <option value="$PROJECT_DIR$/../ITPM/removedata.php" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php" />
+        <option value="$PROJECT_DIR$/../ITPM/ass/connection.php" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/connection.php" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/papers/connection.php" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/new_add.php" />
+        <option value="$PROJECT_DIR$/../ITPM/index.php" />
+        <option value="$PROJECT_DIR$/../ITPM/Admin/Lecturer/index.php" />
+        <option value="$PROJECT_DIR$/../ITPM/main.php" />
+        <option value="$PROJECT_DIR$/../ITPM/references.php" />
+        <option value="$PROJECT_DIR$/../ITPM/papers.php" />
+        <option value="$PROJECT_DIR$/../ITPM/userprofile.php" />
+        <option value="$PROJECT_DIR$/../ITPM/qa.php" />
+        <option value="$PROJECT_DIR$/../ITPM/materials.php" />
         <option value="$PROJECT_DIR$/Seller/addproduct.html" />
+        <option value="$PROJECT_DIR$/Seller/addsupplier.html" />
+        <option value="$PROJECT_DIR$/Seller/Login.html" />
+        <option value="$PROJECT_DIR$/Seller/seller.html" />
+        <option value="$PROJECT_DIR$/Seller/regform.html" />
       </list>
     </option>
   </component>
@@ -133,51 +152,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="divisima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="divisima" type="462c0819:PsiDirectoryNode" />
-              <item name="Seller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="colorlib-regform-4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../colorlib-regform-4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ITPM" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\divisima\Seller" />
-      <recent name="C:\xampp\htdocs\divisima" />
-      <recent name="C:\xampp\htdocs\divisima\RegistrationForm" />
-      <recent name="C:\xampp\htdocs\ITPM\Admin\Lecturer\assignments" />
-      <recent name="C:\xampp\htdocs\Canvas" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\ITPM\Admin\Lecturer\assignments" />
       <recent name="C:\xampp\htdocs\ITPM\Admin\Lecturer" />
       <recent name="C:\xampp\htdocs\colorlib-regform-5" />
       <recent name="C:\xampp\htdocs\divisima\Seller" />
       <recent name="C:\xampp\htdocs\divisima" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\divisima\Seller" />
+      <recent name="C:\xampp\htdocs\divisima" />
+      <recent name="C:\xampp\htdocs\divisima\RegistrationForm" />
+      <recent name="C:\xampp\htdocs\ITPM\Admin\Lecturer\assignments" />
+      <recent name="C:\xampp\htdocs\Canvas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -211,11 +212,18 @@
       <workItem from="1556864445556" duration="24137000" />
       <workItem from="1556944865782" duration="2616000" />
       <workItem from="1556951462500" duration="5959000" />
+      <workItem from="1557036632850" duration="14539000" />
+      <workItem from="1557729858928" duration="4875000" />
+      <workItem from="1557737995107" duration="11995000" />
+      <workItem from="1557842348631" duration="7359000" />
+      <workItem from="1558002759041" duration="2828000" />
+      <workItem from="1558144683485" duration="6620000" />
+      <workItem from="1558351943494" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85021000" />
+    <option name="totallyTimeSpent" value="133845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,9 +236,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1732224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -295,68 +302,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ITPM/ass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3422" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/userprofile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="201" column="23" selection-start-line="201" selection-start-column="23" selection-end-line="201" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/course.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="238" column="63" selection-start-line="238" selection-start-column="63" selection-end-line="238" selection-end-column="63" />
-          <folding>
-            <element signature="e#4755#4761#0#HTML" expanded="true" />
-            <element signature="e#5896#5902#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/insertdata.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/removedata.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/db/dbcon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/db_fileupload.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/update.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../EmailSend/Index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/EmailSend/PHPMailer/class.smtp.php" />
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/PHPMailer/class.smtp.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/EmailSend/email.php" />
     <entry file="file://$PROJECT_DIR$/../Canvas/PHPMailer/class.smtp.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -434,16 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/materials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
-          <caret line="246" column="39" lean-forward="true" selection-start-line="246" selection-start-column="39" selection-end-line="246" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/admin_status.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/Admin/db/dbcon.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -458,20 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -480,23 +401,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/email.php" />
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/new_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3060">
-          <caret line="258" column="53" selection-start-line="258" selection-start-column="45" selection-end-line="258" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/time.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="227" column="39" selection-start-line="227" selection-start-column="39" selection-end-line="227" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.js" />
     <entry file="file://$PROJECT_DIR$/Seller/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -507,47 +412,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RegistrationForm/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/regform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="162" column="18" lean-forward="true" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/regform.html" />
     <entry file="file://$PROJECT_DIR$/reg.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -565,38 +433,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/logout2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="797" column="9" selection-start-line="797" selection-start-column="9" selection-end-line="797" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Comment.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/new_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="258" column="53" selection-start-line="258" selection-start-column="45" selection-end-line="258" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/admin_status.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/connection.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="248" column="9" lean-forward="true" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="105" column="23" lean-forward="true" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/references.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/papers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/userprofile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/qa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/lecs/new_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="101" column="72" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/removedata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/Lecturer/assignments/time.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/product/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/materials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="535" column="26" selection-start-line="535" selection-start-column="26" selection-end-line="535" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/updatesupplier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="110" column="52" selection-start-line="110" selection-start-column="52" selection-end-line="110" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="541" column="45" selection-start-line="541" selection-start-column="45" selection-end-line="541" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Seller/regform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="137" column="78" lean-forward="true" selection-start-line="137" selection-start-column="35" selection-end-line="137" selection-end-column="78" />
+        <state relative-caret-position="658">
+          <caret line="151" column="81" lean-forward="true" selection-start-line="151" selection-start-column="81" selection-end-line="151" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Seller/seller.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="459" column="63" selection-start-line="459" selection-start-column="63" selection-end-line="459" selection-end-column="63" />
+        <state relative-caret-position="51">
+          <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
+    <entry file="file://$PROJECT_DIR$/Seller/addsupplier.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="57" column="30" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="57" selection-end-column="30" />
+        <state relative-caret-position="539">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/addproduct.html">
+    <entry file="file://$PROJECT_DIR$/Seller/Login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="73" column="74" selection-start-line="73" selection-start-column="74" selection-end-line="73" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
